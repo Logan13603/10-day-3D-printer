@@ -13,6 +13,8 @@ Stayed up until 2:30am cadding after first hearing about this, got in about 2 ho
 I also made the first version of the y axis carriage.
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2020th/Screenshot%202025-07-21%20021331.png" width="700">
 
+#### I spent 2 hours 23 minutes cadding today.
+
 
 ## 7/21:
 I fully redesigned the carriage, so it looks sleeker and saves weight. Made some simple linear rail to my custom carriage mounts. I finished the Y axis, fusion was being kind of weird with fillets, but i worked past it. X axis up next, but im having some issues with the pull request on GitHub for my project, so I asked for help in the slack. I added 2 Y axis motors for more speed, double shear for higher belt tensions without bending the motor shaft, and 9mm belts for faster preformance.
