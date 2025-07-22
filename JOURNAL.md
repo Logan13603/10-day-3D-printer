@@ -19,3 +19,7 @@ I also made the first version of the y axis carriage.
 ## 7/21:
 I fully redesigned the carriage, so it looks sleeker and saves weight. Made some simple linear rail to my custom carriage mounts. I finished the Y axis, fusion was being kind of weird with fillets, but i worked past it. X axis up next, but im having some issues with the pull request on GitHub for my project, so I asked for help in the slack. I added 2 Y axis motors for more speed, double shear for higher belt tensions without bending the motor shaft, and 9mm belts for faster preformance.
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2021st/motor%20mount.png" width="700">
+
+X axis up next, but I'm having some issues with the pull request on GitHub for my project, so I asked for help in the slack, and then submitted a pull request. Making the X axis motor mount is pretty difficult, maybe I should've used linear rods for the x axis to simplify things. I'm not sure how strong it will be. I finished the Z axis, to be honest it was sort of hard. I think I'm going to use a M5 bolt for my x axis tensioner, and an M3 screw with a heatset insert to actually tension it.  So far I've spent around 8 hours building this today, the toolhead is probably gonna be the hardest part, I plan to start that tomorrow. 
+
+Here you can see the X Gantry: 
