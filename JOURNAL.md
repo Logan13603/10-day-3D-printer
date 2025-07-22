@@ -13,7 +13,7 @@ Stayed up until 2:30am cadding after first hearing about this, got in about 2 ho
 I also made the first version of the y axis carriage.
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2020th/Screenshot%202025-07-21%20021331.png" width="700">
 
-#### I spent 2 hours 23 minutes cadding today.
+## I spent 2 hours 23 minutes cadding today.
 
 
 ## 7/21:
@@ -27,3 +27,5 @@ X axis up next, but I'm having some issues with the pull request on GitHub for m
 
 #### Here you can see the Z Gantry: 
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2021st/z%20Axis.png" width="500">
+
+## I spent 8 hours 18 minutes cadding today.
