@@ -5,7 +5,7 @@ description: "A simple, but fast bedslinger, designed in 10 days"
 created_at: "2025-07-11"
 ---
 
-## Total time spent: 
+## Total time spent: 15:34 in 3 days
 
 7/20: 2:23
 
