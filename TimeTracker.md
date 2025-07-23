@@ -1,6 +1,6 @@
 # Time Tracker
 
-## Total: 
+## Total: 15:34
 
 7/20: 2:23
 
