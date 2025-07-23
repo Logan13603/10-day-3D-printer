@@ -36,12 +36,16 @@ I think I'm gonna go with the protoxtruder, and tzv6 hotend, and probably 2 5015
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/early%20stages%20%20toolhead.png" width="500">
 
 I made the actual fan ducts now.
+
 <imc src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/ducts.png" width="500">
 
 I would say the hardest part so far of the entire thing is making the mounts for the fan to screw into because they need to be at an angle.
 Just figured out how to do that!
+
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/toolhead%20FINAL.png" width="500">
+
 <img src=https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/toolhead%20rear.png width=500>
+
 Overall the toolhead wasn't as hard to cad as I thought it would be, maybe I'm just better at cad now. 
 #### The CAD is now finished. 
 I can polish it and make it work better after I assemble it and see what needs improvement. I just finished the BOM, about half of it is from amazon, for some reason amazon is cheaper than AliExpress for some things.
