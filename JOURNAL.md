@@ -33,6 +33,7 @@ X axis up next, but I'm having some issues with the pull request on GitHub for m
 
 ## 7/22:
 I think I'm gonna go with the protoxtruder, and tzv6 hotend, and probably 2 5015 fans for cooling. As I suspected, the fan ducts are very difficult to cad, and my whole toolhead looks like a big block.
+
 <img src="https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/early%20stages%20%20toolhead.png" width="500">
 
 I made the actual fan ducts now.
