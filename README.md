@@ -1,4 +1,4 @@
 # 10-day-3D-printer
 This is a simple Bedslinger 3D printer design with a focus on speed, that im trying to design in 10 days. I built this because I heard about hackclub from someone on discord, and as I love 3D printers it seemed like the perfect opportunity to build a 3d printer I designed myself. It has linear rails, AWD Y, double shear on everything, and 9mm belts for the y axis. It's meant to be a small but fast and reliable 3d printer.
 
-<imc src=https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/final%20printer.png>
+<img src=https://github.com/Logan13603/10-day-3D-printer/blob/main/gallery/June%2022nd/final%20printer.png>
