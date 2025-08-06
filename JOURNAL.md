@@ -13,6 +13,10 @@ created_at: "2025-07-11"
 
 7/22: 4:53
 
+## Design Choices: 
+
+I went with a TZV6 for easy nozzle swaps, and good preformance, dual 5015 fans for good cooling, toolhead based on the LH stinger because that is proven to be a very very fast bedslinger with great quality. I opted for 9mm belts on the y axis for higher performance. I went with 10mm linear rods for better stability, linear rails for better quality at speeds, omc 48mm steppers for good speed. 2 Motors for the y axis to carry around the heavy bed. No endstops for sensorless homing which is just simpler. Extrusion based frame for flexibility and rigidity. After I finish building it I'll probably change a lot, like making the x axis motor mount better. 
+
 ## 7/20:
 Stayed up until 2:30am cadding after first hearing about this, got in about 2 hours of work. I wanted to do a basic bedslinger design. I found some issues with sourcing my y axis bed and carriage, so i decided to just get a custom carriage and use the kp3s bed heated bed, might try to find a cheaper one though, I'm already at like $200 including electronics, so I might need to adjust things or get rid of the linear rails and swap to v wheels to save money. Overall i think this was a great first day of cadding, I have a strong foundation to build on top of and add all the other various components. I think tomorrow im gonna make the Y carriage better and add the linear rail mounts. Heres a pic of the basic frame I completed
 
