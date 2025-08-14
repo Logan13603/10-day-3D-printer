@@ -1,1 +1,1 @@
-My cad file is large to be stored here: use the google drive link: [STEP File](https://drive.google.com/file/d/1ena83hxmNsZFuJnQm2IVKQz-uFOP2uik/view?usp=sharing), or on fusion 360: [F360 Link](https://a360.co/4m8hXtC)
+STEP File of My CAD
